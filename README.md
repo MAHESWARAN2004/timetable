@@ -89,4 +89,4 @@ Execute the program
 </html>
 ```
 # OUPUT
-![image](img/1.png)
+![image](./Photo/1.png)
