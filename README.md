@@ -90,4 +90,4 @@ Execute the program
 ```
 # OUPUT
 
-![image](./Photo/1.png)
+![image](Photo/1.png)
